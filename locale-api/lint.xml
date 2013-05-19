@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconXmlAndPng">
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_dontsave.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_help.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+        <ignore path="res\drawable\twofortyfouram_locale_ic_menu_save.xml" />
+    </issue>
+</lint>
